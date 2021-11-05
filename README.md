@@ -5,8 +5,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=anran-world&show_icons=true&theme=radical&hide_border=true" width="550"/>
 </p>
 <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/anran-world/count.svg" />
+  您是第  <img src="https://profile-counter.glitch.me/anran-world/count.svg" />位访问者
 </p>
 <p align="center"> 
   <a href="https://52bp.icu" target="_blank">主页</a>
