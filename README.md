@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**anran-world/anran-world** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://github.com/anran-world/anran-world/raw/master/solstice23.svg)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=anran-world&show_icons=true&theme=radical&hide_border=true" width="550"/>
+</p>
+<p align="center"> 
+  <a href="https://github.com/solstice23/osu-stats-signature/"><img src="https://osu-stats-signature.vercel.app/card?user=anran-world&mode=std&animation=true" width="550" /></a>
+</p>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/anran-world/count.svg" />
+</p>
