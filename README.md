@@ -11,4 +11,5 @@
   <a href="https://52bp.icu" target="_blank">主页</a>
   <a href="http://anran.ga" target="_blank">杂货铺</a>
   <a href="http://feizhu.fk77.cn/" target="_blank">影视会员批发</a>
+  <a href="https://t.me/anranbp" target="_blank">电报频道</a>
 </p>
