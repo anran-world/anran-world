@@ -9,9 +9,9 @@
 </p>
 <p align="center"> 
   <a href="https://52bp.icu" target="_blank">主页</a><br />
-  <a href="http://anran.ga" target="_blank">杂货铺</a><br />
-  <a href="https://t.me/anranbp" target="_blank">电报频道</a><br />
-  <a href="http://feizhu.fk77.cn/" target="_blank">影视会员批发</a><br />
+  <a href="http://52bp.icu" target="_blank">杂货铺</a><br />
+  <a href="http://feizhu.faka55.xyz/" target="_blank">影视会员批发</a><br />
+  <a href="https://t.me/anranbp" target="_blank">我爱白嫖电报频道</a><br />
   <a href="https://blog.zhaowenran.com/alipan" target="_blank">阿里网盘资源搜索</a><br />
 </p> 
 
